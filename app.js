@@ -5,5 +5,7 @@ export default {
     app: {},
     component: {},
     page: {},
+    data: {},
+    method: {},
     
 };
